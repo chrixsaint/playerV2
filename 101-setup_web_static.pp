@@ -1,4 +1,4 @@
-# Configures a web server for deployment of web_static.
+# Configures a Web Server for deployment of web_static.
 
 # Nginx configuration file
 $nginx_conf = "server {
